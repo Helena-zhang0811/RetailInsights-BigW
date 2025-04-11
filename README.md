@@ -1,10 +1,10 @@
-# 📊 Big W Sales Strategy Recommendations
+# Big W Sales Strategy Recommendations
 
 This capstone project aims to provide strategic business recommendations to Big W using real sales data, and advanced machine learning models.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 Through Exploratory Data Analysis, feature engineering, and predictive modeling, we identified key sales drivers and generated actionable insights across four areas:
 
@@ -34,12 +34,12 @@ Through Exploratory Data Analysis, feature engineering, and predictive modeling,
 
 ---
 
-## ✅ Modeling Summary
+## Modeling Summary
 
 We tested the following models:
 - Linear Regression, Ridge, Lasso
 - Decision Tree, Bagging, XGBoost
-- ✅ **Best-performing model:** Random Forest (RMSE: 2232.25, RMSLE: 0.097)
+- **Best-performing model:** Random Forest (RMSE: 2232.25, RMSLE: 0.097)
 
 ---
 
